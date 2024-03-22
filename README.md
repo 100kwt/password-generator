@@ -1,5 +1,4 @@
 # password-generator
-# Генератор Безопасных Паролей
 
 ![Генератор Безопасных Паролей](password_generator_screenshot.png)
 

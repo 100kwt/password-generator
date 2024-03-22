@@ -22,9 +22,9 @@ Password Generation by 100kwt - это графическое приложени
 ## Установка и запуск
 
 1. Установите необходимые библиотеки, выполнив следующие команды:
-  ```bash
-  pip install customtkinter
-  pip install pillow
+```bash
+pip install customtkinter
+pip install pillow
 3. Клонируйте репозиторий или загрузите архив проекта на свой компьютер.
 4. Перейдите в директорию проекта и запустите файл `main.py`: python main.py
 
